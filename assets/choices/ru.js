@@ -12,16 +12,16 @@ ru={
         "nsg-WhiteBearChoice": "'WHITE BEAR"
     },
     "SS20": {
-        "R5": "VISIT DR HAYNES",
-        "3Nx": "GO BACK"
+        "R5": "VAI DALLA DOTT.SSA HAYNES",
+        "3Nx": "TORNA INDIETRO"
     },
     "SS21": {
         "R6": "PAC",
-        "5H": "KILL DAD"
+        "5H": "UCCIDI PAPA'"
     },
     "SS22": {
-        "nsg-WhoThereChoice": "WHO'S THERE?",
-        "5H": "KILL DAD"
+        "nsg-WhoThereChoice": "CHI C'E'?",
+        "5H": "UCCIDI PAPA'"
     },
     "2Bp2": {
         "No": "NO"
@@ -33,7 +33,7 @@ ru={
     "2Bp1": {
         "No": "NO",
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "Z62f": {
         "7A": "NETFLIX",
@@ -60,10 +60,10 @@ ru={
         "nsg-WhiteBearChoice": "'WHITE BEAR"
     },
     "7D": {
-        "Yeah": "SÌ",
-        "FYeah": "FUCK YEAH",
-        "7L": "LEAP THROUGH THE WINDOW",
-        "7H": "FIGHT HER"
+        "Yeah": "SI'",
+        "FYeah": "SI' CAZZO!",
+        "7L": "SALTA DALLA FINESTRA",
+        "7H": "COMBATTILA"
     },
     "Z62c": {
         "7A": "NETFLIX",
@@ -90,31 +90,31 @@ ru={
         "3Z": "DAI UN COLPO ALLA SCRIVANIA"
     },
     "5AG2": {
-        "5AH": "LET HIM GO",
-        "5AJ": "KILL HIM"
+        "5AH": "LASCIALO ANDARE",
+        "5AJ": "UCCIDILO"
     },
     "SS16": {
         "R3": "PARLA DELLA MADRE",
-        "3Vx": "GO BACK"
+        "3Vx": "TORNA INDIETRO"
     },
     "SS17": {
         "R4": "SEGUI COLIN",
-        "3Vx": "GO BACK"
+        "3Vx": "TORNA INDIETRO"
     },
     "1S": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "SS18": {
-        "3Vx": "GO BACK"
+        "3Vx": "TORNA INDIETRO"
     },
     "1R": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "SS19": {
         "R3": "PARLA DELLA MADRE",
-        "3Nx": "GO BACK"
+        "3Nx": "TORNA INDIETRO"
     },
     "Z62b": {
         "7A": "NETFLIX",
@@ -127,33 +127,33 @@ ru={
     "2Bt1": {
         "No": "NO",
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "3Vfs": {
         "3Y": "DISTRUGGI IL PC",
         "3Z": "DAI UN COLPO ALLA SCRIVANIA"
     },
     "SS10": {
-        "1PA": "GO BACK"
+        "1PA": "TORNA INDIETRO"
     },
     "SS11": {
-        "nsg-SS11-0": "WORK AT TUCKERSOFT?",
-        "3Ax": "GO BACK"
+        "nsg-SS11-0": "LAVORI ALLA TUCKERSOFT?",
+        "3Ax": "TORNA INDIETRO"
     },
     "SS12": {
         "R3": "PARLA DELLA MADRE",
-        "3Ax": "GO BACK"
+        "3Ax": "TORNA INDIETRO"
     },
     "SS13": {
-        "3Ax": "GO BACK"
+        "3Ax": "TORNA INDIETRO"
     },
     "SS14": {
         "R3": "PARLA DELLA MADRE",
-        "nsg-SS14-1": "GO BACK"
+        "nsg-SS14-1": "TORNA INDIETRO"
     },
     "SS15": {
         "R4": "SEGUI COLIN",
-        "nsg-SS15-1": "GO BACK"
+        "nsg-SS15-1": "TORNA INDIETRO"
     },
     "3Nx": {
         "8L": "STEFAN",
@@ -165,12 +165,12 @@ ru={
         "1S": "THE BERMUDA TRIANGLE"
     },
     "S35B": {
-        "nsg-WhoThereChoice": "WHO'S THERE?",
+        "nsg-WhoThereChoice": "CHI C'E'?",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "2Gp1": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "3AH2": {
         "7A": "NETFLIX",
@@ -189,28 +189,28 @@ ru={
         "nsg-WhiteBearChoice": "'WHITE BEAR"
     },
     "S59A": {
-        "nsg-S59A-0": "COSA  DEVO FARE?",
+        "nsg-S59A-0": "FALLO A PEZZI O SEPPELLISCILO?",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "S59B": {
-        "nsg-S59B-0": "COSA  DEVO FARE?",
+        "nsg-S59B-0": "FALLO A PEZZI O SEPPELLISCILO?",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "S35A": {
-        "nsg-WhoThereChoice": "WHO'S THERE?",
+        "nsg-WhoThereChoice": "CHI C'E'?",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "5A": {
-        "5H": "KILL DAD",
-        "5G": "BACK OFF"
+        "5H": "UCCIDI PAPA'",
+        "5G": "VATTENE VIA"
     },
     "5QA": {
-        "5UA": "SÌ",
+        "5UA": "SI'",
         "5TA": "NO"
     },
     "1QA": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "8JB1": {
         "nsg-LettersPACSChoice": "PACS",
@@ -233,28 +233,28 @@ ru={
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "1Qtt": {
-        "nsg-2BChoice": "SÌ",
+        "nsg-2BChoice": "SI'",
         "2GA": "NO"
     },
     "3M": {
-        "3N": "SÌ",
+        "3N": "SI'",
         "3P": "NO"
     },
     "3L": {
-        "nsg-VisitHaynesChoice": "VISIT DR. HAYNES",
+        "nsg-VisitHaynesChoice": "VAI DALLA DOTT.SSA HAYNES",
         "nsg-FollowColinChoice": "SEGUI COLIN"
     },
     "3J": {
-        "nsg-VisitHaynesChoice": "VISIT DR. HAYNES",
+        "nsg-VisitHaynesChoice": "VAI DALLA DOTT.SSA HAYNES",
         "nsg-FollowColinChoice": "SEGUI COLIN"
     },
     "5AD": {
-        "5AF": "NO IDEA",
-        "5AE": "HE JUMPED"
+        "5AF": "NON LO SO",
+        "5AE": "HA SALTATO"
     },
     "3R": {
-        "3U": "BITE NAILS",
-        "3T": "PULL EARLOBE"
+        "3U": "UNGHIE",
+        "3T": "LOBI"
     },
     "3P": {
         "8L": "STEFAN",
@@ -285,8 +285,8 @@ ru={
         "nsg-PACStudyChoice": "PAC"
     },
     "5AG": {
-        "5AH": "LET HIM GO",
-        "5AJ": "KILL HIM"
+        "5AH": "LASCIALO ANDARE",
+        "5AJ": "UCCIDILO"
     },
     "ZK3": {
         "8J": "TOY",
@@ -316,16 +316,16 @@ ru={
         "nsg-WhiteBearChoice": "'WHITE BEAR"
     },
     "S37A": {
-        "R2": "GET RABBIT FROM DAD",
+        "R2": "PRENDI RABBIT DA PAPA'",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "S37B": {
-        "R2": "GET RABBIT FROM DAD",
+        "R2": "PRENDI RABBIT DA PAPA'",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "5AD2": {
-        "5AF": "NO IDEA",
-        "5AE": "HE JUMPED"
+        "5AF": "NON LO SO",
+        "5AE": "HA SALTATO"
     },
     "3Xxc": {
         "8B": "BUTTALE VIA",
@@ -345,7 +345,7 @@ ru={
     },
     "3Ax": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "3AK1": {
         "nsg-LettersPACSChoice": "PACS",
@@ -356,35 +356,35 @@ ru={
         "7J": "KICK HIM IN THE BALLS"
     },
     "5Q": {
-        "5U": "SÌ",
+        "5U": "SI'",
         "5T": "NO"
     },
     "SS7": {
-        "R1": "PICK UP PHOTO",
-        "5H": "KILL DAD"
+        "R1": "PRENDI LA FOTO",
+        "5H": "UCCIDI PAPA'"
     },
     "SS8": {
-        "R2": "GET RABBIT FROM DAD",
-        "5H": "KILL DAD"
+        "R2": "PRENDI RABBIT DA PAPA'",
+        "5H": "UCCIDI PAPA'"
     },
     "SS9": {
         "R4": "SEGUI COLIN",
-        "5H": "KILL DAD"
+        "5H": "UCCIDI PAPA'"
     },
     "SS3": {
-        "R2": "GET RABBIT FROM DAD",
-        "nsg-WhoThereChoice": "WHO'S THERE?"
+        "R2": "PRENDI RABBIT DA PAPA'",
+        "nsg-WhoThereChoice": "CHI C'E'?"
     },
     "SS4": {
         "R4": "SEGUI COLIN",
-        "nsg-WhoThereChoice": "WHO'S THERE?"
+        "nsg-WhoThereChoice": "CHI C'E'?"
     },
     "SS5": {
-        "nsg-WhoThereChoice": "WHO'S THERE?"
+        "nsg-WhoThereChoice": "CHI C'E'?"
     },
     "SS6": {
         "R3": "PARLA DELLA MADRE",
-        "5H": "KILL DAD"
+        "5H": "UCCIDI PAPA'"
     },
     "1GB": {
         "nsg-8AChoice": "ACCETTA",
@@ -403,31 +403,31 @@ ru={
         "nsg-5V-1": "FAI A PEZZI IL CORPO"
     },
     "SS2": {
-        "R1": "PICK UP PHOTO",
-        "nsg-WhoThereChoice": "WHO'S THERE?"
+        "R1": "PRENDI LA FOTO",
+        "nsg-WhoThereChoice": "CHI C'E'?"
     },
     "S36A": {
-        "R1": "PICK UP PHOTO",
+        "R1": "PRENDI LA FOTO",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "S36B": {
-        "R1": "PICK UP PHOTO",
+        "R1": "PRENDI LA FOTO",
         "0cr1": "GUARDA I TITOLI DI CODA"
     },
     "SS52": {
-        "nsg-SS52-0": "COSA  DEVO FARE?",
+        "nsg-SS52-0": "FALLO A PEZZI O SEPPELLISCILO?",
         "0cr2": "GUARDA I TITOLI DI CODA"
     },
     "SS53": {
-        "nsg-SS53-0": "COSA  DEVO FARE?",
+        "nsg-SS53-0": "FALLO A PEZZI O SEPPELLISCILO?",
         "0cr2": "GUARDA I TITOLI DI CODA"
     },
     "SS54": {
-        "nsg-WhoThereChoice-SS54": "WHO'S THERE?",
+        "nsg-WhoThereChoice-SS54": "CHI C'E'?",
         "0cr2": "GUARDA I TITOLI DI CODA"
     },
     "SS55": {
-        "nsg-SS55-0": "PICK UP PHOTO",
+        "nsg-SS55-0": "PRENDI LA FOTO",
         "0cr2": "GUARDA I TITOLI DI CODA"
     },
     "1HA": {
@@ -435,7 +435,7 @@ ru={
         "nsg-1Q_rewatch": "RIFIUTA"
     },
     "SS56": {
-        "nsg-SS56-0": "GET RABBIT FROM DAD",
+        "nsg-SS56-0": "PRENDI RABBIT DA PAPA'",
         "0cr2": "GUARDA I TITOLI DI CODA"
     },
     "3Vbs": {
@@ -455,7 +455,7 @@ ru={
         "nsg-1Q_rewatch": "RIFIUTA"
     },
     "1Qnw": {
-        "nsg-2BChoice": "SÌ",
+        "nsg-2BChoice": "SI'",
         "2GA": "NO"
     },
     "Z4cd": {
@@ -496,7 +496,7 @@ ru={
     },
     "Z1": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "Z61f": {
         "nsg-LettersPACSChoice": "PACS",
@@ -527,7 +527,7 @@ ru={
         "nsg-WhiteBearChoice": "'WHITE BEAR"
     },
     "ZB": {
-        "nsg-2BChoice": "SÌ",
+        "nsg-2BChoice": "SI'",
         "2GA": "NO"
     },
     "1E": {
@@ -607,7 +607,7 @@ ru={
         "nsg-WhiteBearChoice": "'WHITE BEAR"
     },
     "2GA": {
-        "nsg-2BChoice": "SÌ",
+        "nsg-2BChoice": "SI'",
         "nsg-2GChoice": "NO"
     },
     "S38A": {
@@ -624,7 +624,7 @@ ru={
     },
     "2Gt1": {
         "3B": "ROVESCIA IL THE SUL PC",
-        "3C": "GRIDA CONTRO PAPÀ"
+        "3C": "GRIDA CONTRO PAPA'"
     },
     "3AL2": {
         "7A": "NETFLIX",
@@ -655,7 +655,7 @@ ru={
         "nsg-DestroyComputerChoice": "DISTRUGGI IL PC"
     },
     "8J": {
-        "8JA": "SÌ",
+        "8JA": "SI'",
         "nsg-8J-1": "NO"
     },
     "4D2": {
